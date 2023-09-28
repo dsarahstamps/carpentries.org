@@ -16,6 +16,14 @@ Do you know about other works that should be listed here? If so, please email <a
       December 2022
     </p>
   </li>
+
+   <li>
+    <p>
+      Nederbragt A, Harris RM, Hill AP, Wilson G: "<a href="[https://www.journalofplayinadulthood.org.uk/article/id/1030/](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008090)">Ten quick tips for teaching with participatory live coding</a>",
+      <em>PLoS Computational Biology</em>,
+      2020.
+    </p>
+  </li>
   
   <li>
     <p>
@@ -23,17 +31,16 @@ Do you know about other works that should be listed here? If so, please email <a
       November 2018
     </p>
   </li>
-    
- 
-
 
   <li>
     <p>
-      Jorge Aranda: "<a href="https://software-carpentry.org/files/bib/aranda-assessment-2012-07.pdf">Software Carpentry Assessment Report</a>",
-      July 2012.
+      Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, et al.:
+      "<a href="[http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668](https://doi.org/10.1371/journal.pcbi.1005510)">Good enough practices in scientific computing</a>"
+      <em>PLoS Computational Biology</em>,
+      2017.
     </p>
   </li>
-
+  
   <li>
     <p>
       John D. Blischak, Emily R. Davenport, and Greg Wilson:
@@ -107,6 +114,13 @@ Do you know about other works that should be listed here? If so, please email <a
       Julie Libarkin:
       "<a href="https://software-carpentry.org/files/bib/libarkin-assessment-report-2012-06.pdf">Software Carpentry Workshop Evaluation</a>",
       June 2012.
+    </p>
+  </li>
+
+<li>
+    <p>
+      Jorge Aranda: "<a href="https://software-carpentry.org/files/bib/aranda-assessment-2012-07.pdf">Software Carpentry Assessment Report</a>",
+      July 2012.
     </p>
   </li>
 
